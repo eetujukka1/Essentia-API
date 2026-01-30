@@ -1,1 +1,1 @@
-# Essentia-Wrapper
+# Essentia-API
