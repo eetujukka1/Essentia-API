@@ -1,0 +1,5 @@
+dev
+wsl_venv
+.claude
+.pytest_cache
+.env
