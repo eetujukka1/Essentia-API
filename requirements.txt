@@ -1,0 +1,7 @@
+scipy
+librosa
+essentia-tensorflow
+numpy
+pytest
+flask
+python-dotenv
