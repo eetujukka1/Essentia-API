@@ -3,3 +3,4 @@ librosa
 essentia-tensorflow
 numpy
 pytest
+flask

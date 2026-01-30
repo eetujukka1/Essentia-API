@@ -3,3 +3,5 @@ wsl_venv
 .claude
 .pytest_cache
 .env
+PLAN.md
+PROJECT.md
