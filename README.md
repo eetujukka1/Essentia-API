@@ -1,6 +1,6 @@
 # Essentia-API
 
-A Flask REST API that exposes audio ML prediction models for genre classification, instrument detection, and vocal content detection via HTTP endpoints. Built on top of an [Essentia wrapper](https://github.com/eetujukka1/Essentia-Wrapper?tab=readme-ov-file), a library for audio and music analysis.
+A Flask REST API that exposes audio ML prediction models for genre classification, instrument detection, and vocal content detection via HTTP endpoints. Built on top of an [Essentia wrapper](https://github.com/eetujukka1/Essentia-Wrapper), a library for audio and music analysis.
 
 ## Features
 
