@@ -1,0 +1,11 @@
+dev
+venv
+wsl_venv
+.claude
+.pytest_cache
+.env
+PLAN.md
+PROJECT.md
+CLAUDE.md
+__pycache__
+tests
